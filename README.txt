@@ -1,3 +1,4 @@
+This project is based on knowledge at python for everybody course of University of Michigan at coursera
 Analyzing an EMAIL Archive from gmane and vizualizing the data
 using the D3 JavaScript library
 
